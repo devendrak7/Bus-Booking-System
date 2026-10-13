@@ -33,8 +33,7 @@ void loadBookings(){
                 if(s[i].seatNum==seat){
                     duplicate = true;
                     break;
-                }
-            }
+                }}
 
             if(!duplicate){
                 s[total].name = name;
