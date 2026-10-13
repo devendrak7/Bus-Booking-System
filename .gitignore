@@ -1,0 +1,3 @@
+*.exe
+BusTicket/*
+!BusTicket/.gitkeep
